@@ -8,3 +8,4 @@ plotly
 openpyxl
 jupyter
 umap-learn
+nbstripout
