@@ -9,3 +9,4 @@ openpyxl
 jupyter
 umap-learn
 nbstripout
+country_converter
