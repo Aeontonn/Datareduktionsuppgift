@@ -1,0 +1,15 @@
+Innan ni börja jobba med grupprojekten, rekommenderas att leka med Datareduktions appen:
+https://jensen-dim-reduction-c4df59a182c2.herokuapp.com/
+
+Ni kommer att jobba i små grupper, 2-4 pers per grupp
+
+•Välja vilket dataset från öppna källor (egen data) som ni vill och undersöka några       variabler i datasetet
+•Köra statistik på dessa variabler
+•Visualisera data
+•Använd en eller flera datareduktiontekniker
+•Presentera data som en liten berättelse om data och variabler (5-7 bilder, 10 min     presentation + 5 min frågor)
+
+EXTRA: 
+•Gör interaktiv visualisering
+•Undersök bidrag av olika variabler
+•Om ni använder UMAP använd hyperparameter justering
